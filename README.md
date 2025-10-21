@@ -34,4 +34,19 @@ The analysis highlights variations in key healthcare indicators such as hospital
 
 ---
 
-## ⚙️ Project Workflow
+1️⃣ Map: Inequitable Access to Healthcare
+Description:
+This map highlights areas in the United States where social vulnerability overlaps with poor access to healthcare services.
+The darker red regions represent counties with both high social vulnerability and low access to care, while blue regions indicate better healthcare accessibility.
+The visualization exposes major access disparities concentrated in the Southern states, rural Midwest, and tribal communities across the West.
+These findings emphasize systemic challenges such as geographic isolation, healthcare workforce shortages, and socioeconomic barriers that hinder equitable access to medical care.
+Source: Modern Healthcare analysis of CDC and Health Resources & Services Administration (HRSA) data.
+
+2️⃣ Map: Share of Uninsured Residents (2022)
+Description:
+This map illustrates the percentage of uninsured residents under 65 across U.S. counties in 2022.
+The darker blue areas indicate higher uninsured rates — exceeding 15% in several Southern and Southwestern states, notably Texas, Florida, and parts of Georgia.
+Nationally, the uninsured rate averaged 9.5%, but the regional variation reveals substantial coverage gaps, particularly in states that did not expand Medicaid under the Affordable Care Act.
+This map supports the project’s conclusion that insurance coverage strongly influences healthcare access and affordability, reinforcing the need for policy-driven expansion of coverage programs.
+Source: U.S. Census Bureau, 2022 Health Insurance Coverage Data.
+
